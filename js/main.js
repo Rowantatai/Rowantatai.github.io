@@ -27,3 +27,11 @@ $('#p3').click(function(){
 $('#p4').click(function(){
 	window.open("#");
 });
+
+// images
+
+  $(".hover").mouseleave(
+    function () {
+      $(this).removeClass("hover");
+    }
+  );
