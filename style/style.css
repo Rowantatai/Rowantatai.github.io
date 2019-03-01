@@ -686,15 +686,15 @@ p.skills{
   box-sizing: border-box;
 }*/
 
-.column {
+/*.column {
   float: left;
   width: 50%;
   padding: 25px;
 }
 
-/* Clearfix (clear floats) */
+ Clearfix (clear floats) 
 .row::after {
   content: "";
   clear: both;
   display: table;
-}
+}*/
